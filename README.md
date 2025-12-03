@@ -43,7 +43,7 @@ I enjoy working with Python, SQL, Excel, and Power BI to clean data, build dashb
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vaibhav-ekhande/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/vaibhav-ekhande/](https://www.linkedin.com/in/vaibhav-ekhande/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.ekhande06@gmail.com)
 
 ✨ Thanks for visiting my profile!
