@@ -39,18 +39,11 @@ I enjoy working with Python, SQL, Excel, and Power BI to clean data, build dashb
 
 ## 📂 Featured Projects
 
-- 🧹 **Data Cleaning & EDA – [Project Name]**  
-  Short description of what you did and tools used.
 
-- 📊 **Sales Dashboard in Power BI – [Project Name]**  
-  Short description of key insights and visuals.
-
-- 🗄️ **SQL Case Study – [Project Name]**  
-  Mention joins, window functions, etc.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vaibhav-ekhande)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vaibhav-ekhande/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.ekhande06@gmail.com)
 
 ✨ Thanks for visiting my profile!
