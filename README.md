@@ -39,7 +39,7 @@ I enjoy working with Python, SQL, Excel, and Power BI to clean data, build dashb
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=000000)
 
 ## 📂 Featured Projects
-- 📊 **Sales Dashboard in Power BI – [LIFE INSURANCE PVT LTD](https://app.powerbi.com/links/svCzLqvjiN?ctid=99df2d07-30af-401c-8dab-4e6499c9a531&pbi_source=linkShare)**
+- 📊 **Sales Dashboard in Power BI – [LIFE INSURANCE PVT LTD]([https://app.powerbi.com/links/svCzLqvjiN?ctid=99df2d07-30af-401c-8dab-4e6499c9a531&pbi_source=linkShare](https://app.powerbi.com/links/0x9jdQ1SqH?ctid=99df2d07-30af-401c-8dab-4e6499c9a531&pbi_source=linkShare))**
 
 **life insurance performance metrics, including total premium, claim, and coverage amounts, segmented by policy, status, and customer profile.**
 
