@@ -39,8 +39,17 @@ I enjoy working with Python, SQL, Excel, and Power BI to clean data, build dashb
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=000000)
 
 ## 📂 Featured Projects
+- 📊 **Sales Dashboard in Power BI – [LIFE INSURANCE PVT LTD ]** 
 
+**life insurance performance metrics, including total premium, claim, and coverage amounts, segmented by policy, status, and customer profile.**
 
+- The top cards highlight overall business scale, showing multi-million premium, claim, and coverage amounts at a glance.
+
+- Bar charts break down premium amounts by policy type and show that Travel and Health policies contribute the highest premiums.
+
+- A donut chart tracks the share of active vs inactive policies, helping monitor portfolio health.
+
+- Additional visuals display the number of claims by status (rejected, settled, pending), claim amounts by age group, and a detailed table by policy type and claim status, enabling quick identification of high-risk or high-value segments.
 
 ## 📫 Connect With Me
 
